@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AAO Generator
-// @version      0.7
+// @version      0.7+202402082346
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       papachaotia
 // @updateURL    https://github.com/papachaotica/LSS/blob/main/AAO_Generator.user.js
