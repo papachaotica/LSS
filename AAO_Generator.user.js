@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         LSS AAO Generator
-// @version      1.3
+// @name         AAO Generator
+// @version      0.7
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
-// @author       MissSobol
+// @author       papachaotia
 // @match        https://www.leitstellenspiel.de/einsaetze/*
 // @match        https://www.leitstellenspiel.de/aaos/new
 // @grant        GM_openInTab
