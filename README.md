@@ -1,1 +1,1 @@
-# LSS-
+# LSS-scripte und Dateien
