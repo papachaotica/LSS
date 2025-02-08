@@ -188,6 +188,7 @@
                 "Benötigte DHuFüKW": "aao[k9]", //Diensthundeführerkraftwagen
                 "Benötigte Polizeimotorräder": "aao[police_motorcycle]", //Polizeimotorrad
                 "Benötigte Funkstreifenwagen oder Polizeimotorräder": "aao[fustw_or_police_motorcycle]", //Funkstreifenwagen oder Polizeimotorrad
+                "Benötigte Funkstreifenwagen oder Zivilstreifenwagen oder Polizeimotorrad": "aao[fustw_or_police_motorcycle]", //Funkstreifenwagen oder Polizeimotorrad
                 "Benötigte Außenlastbehälter (allgemein)": "aao[helicopter_bucket]", //Außenlastbehälter (allgemein)
                 "Benötigte Funkstreifenwagen (Dienstgruppenleitung)": "vehicle_type_ids[103]", //FuStW (DGL)
                 //"Benötigte Funkstreifenwagen (Dienstgruppenleitung)": "aao[police_car_or_service_group_leader]", //FuStW oder FuStW (DGL)
