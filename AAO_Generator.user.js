@@ -3,6 +3,7 @@
 // @version      0.7
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       papachaotia
+// @updateURL    https://github.com/papachaotica/LSS/blob/main/AAO_Generator.user.js
 // @match        https://www.leitstellenspiel.de/einsaetze/*
 // @match        https://www.leitstellenspiel.de/aaos/new
 // @grant        GM_openInTab
