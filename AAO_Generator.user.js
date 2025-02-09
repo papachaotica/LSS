@@ -103,7 +103,7 @@
                 //"Benötigte Rüstwagen": "aao[rw]", //Rüstwagen oder HLF
                 //"Benötigte Rüstwagen": "aao[rw_only]", //Rüstwagen
                 //"Benötigte Rüstwagen": "aao[ab_ruest]", //AB Rüst
-                "Benötigte Rüstwagen": "aao[ab_ruest_rw]", //AB Rüst oder Rüstwagen oder HLF
+                //"Benötigte Rüstwagen": "aao[ab_ruest_rw]", //AB Rüst oder Rüstwagen oder HLF
                 "Benötigte GW-A": "aao[gwa]", //GW-A oder AB-Atemschutz
                 //"Benötigte GW-A": "aao[ab_atemschutz_only]", //AB-Atemschutz
                 //"Benötigte GW-A": "aao[gw_atemschutz_only]", //GW-A
