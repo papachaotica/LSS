@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AAO Generator
-// @version      0.7+202402082346
+// @version      0.7+202402091457
 // @description  Fügt einen Button ein um einen neuen AAO Eintrag zu erzeugen
 // @author       papachaotia
 // @updateURL    https://github.com/papachaotica/LSS/blob/main/AAO_Generator.user.js
@@ -80,7 +80,8 @@
             // Map von Fahrzeugnamen zu Input-Namen
             var inputMap = {
                 //"Benötigte Löschfahrzeuge": "aao[fire]", //LF oder TLF
-                "Benötigte Löschfahrzeuge": "aao[lf_only]", //LF
+                //"Benötigte Löschfahrzeuge": "aao[lf_only]", //LF
+                "Benötigte Löschfahrzeuge": "aao[hlf_only]", //HLF
                 //"Benötigte Tanklöschfahrzeuge": "aao[tlf_only]", //TLF
                 "Wasserbedarf": "aao[wasser_amount]", //Liter Wasser
                 //"Wasserbedarf": "aao[wasser_amount_tlf]", //Liter Wasser - Nur TLF
